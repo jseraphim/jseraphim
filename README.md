@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jseraphim
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, PHP and Java
 
 <!---
 jseraphim/jseraphim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
